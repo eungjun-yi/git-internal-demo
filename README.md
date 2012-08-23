@@ -8,7 +8,7 @@ blob
 
 tree
 
-    $ python tree.py greet e6e9589982f5342c135f291a9502dc967aed3909
+    $ python tree.py greet 8ab686eafeb1f44702738c8b0f24f2567c36da6d
     c97aabb481c72e9e51f7b3afdf93b7a362a17748
 
 commit
