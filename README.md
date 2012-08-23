@@ -19,4 +19,4 @@ commit
 License
 -------
 
-This software is distributed the [BSD License](http://www.opensource.org/licenses/bsd-license.php).
+This software is distributed under the [BSD License](http://www.opensource.org/licenses/bsd-license.php).
