@@ -5,7 +5,7 @@ Make a git repository
 
     $ mkdir -p .git/objects
     $ mkdir -p .git/refs
-    $ mkdir 'ref: refs/heads/master' > .git/HELLO
+    $ mkdir 'ref: refs/heads/master' > .git/HEAD
 
 Move to the repository
 
