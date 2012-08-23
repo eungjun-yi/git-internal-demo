@@ -1,6 +1,16 @@
 Usage
 -----
 
+Make a git repository
+
+    $ mkdir -p .git/objects
+    $ mkdir -p .git/refs
+    $ mkdir 'ref: refs/heads/master' > .git/HELLO
+
+Move to the repository
+
+    $ cd .git
+
 blob
 
     $ echo 'Hello, World!' | python blob.py
