@@ -26,6 +26,11 @@ commit
     $ python commit.py c97aabb481c72e9e51f7b3afdf93b7a362a17748
     c553507ff28583dd64a106ee1f91924d4fc41ef1
 
+See Also
+---------
+
+* ["Git Internal" slide (keynote)](https://github.com/npcode/git-internal)
+
 License
 -------
 
